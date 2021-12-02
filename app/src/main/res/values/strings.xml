@@ -3,4 +3,9 @@
     <string name="hello">Hello!!!</string>
     <string name="bye">Bye</string>
     <string name="button">BUTTON</string>
+    <string name="next_activity">Next activity</string>
+    <string name="AppName">Firstapp</string>
+    <string name="favorite">favorite</string>
+    <string name="search">search</string>
+    <string name="more">more</string>
 </resources>
